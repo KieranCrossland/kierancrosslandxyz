@@ -1,7 +1,6 @@
 #!/bin/python3
 import os
 import requests
-import sys
 
 def ipcurl():
     url = "https://api.ipify.org/"
