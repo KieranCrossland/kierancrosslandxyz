@@ -1,5 +1,3 @@
 # kierancrosslandxyz
-My website files 
-
-http://kierancrossland.xyz
+The source code for my personal website kierancrossland.xyz
 
